@@ -1,0 +1,1 @@
+Any file that begins with a period should return false and not be accessed.
